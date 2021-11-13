@@ -9,4 +9,4 @@
 5- yarn sequelize db:seed:all
 
 6- Running application:
-# node src/cluster.js
+- node src/cluster.js
