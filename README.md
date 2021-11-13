@@ -1,12 +1,12 @@
 # nodeCluster
 
 
-1 - git clone
-3- yarn install
+- git clone
+- yarn install
 
-4- yarn sequelize db:create nodeCluster
-5- yarn sequelize db:migrate
-5- yarn sequelize db:seed:all
+- yarn sequelize db:create nodeCluster
+- yarn sequelize db:migrate
+- yarn sequelize db:seed:all
 
-6- Running application:
+Running application:
 - node src/cluster.js
